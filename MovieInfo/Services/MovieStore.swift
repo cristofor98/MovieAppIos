@@ -9,7 +9,7 @@
 import Foundation
 import Alamofire
 
-private let apiKey = "add890c037018d5759418289c3ff0360"
+private let apiKey = ""
 private let baseAPIURL = "https://api.themoviedb.org/3"
 private let coder = JSONDecoder()
 private let getTokenMethod = "/authentication/token/new"
